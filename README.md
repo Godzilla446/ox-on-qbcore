@@ -8,5 +8,3 @@
 - All credits go to the owner of ox resources, i'm just a dev that make this resources works again for qbcore, 
 - because there are quite a few servers that use ox_inventory but are on qb-core.
 - it's a plug and play and i'm not going to help you, this has no support.
-
-# Folders
